@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-10-21T21:52:25</date>
+  <millis>1540151545535</millis>
+  <sequence>0</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>14</thread>
+  <message>Añadiendo ficheros con filtro *Pentatonix*.mp4</message>
+</record>
+<record>
+  <date>2018-10-21T21:52:25</date>
+  <millis>1540151545540</millis>
+  <sequence>1</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>14</thread>
+  <message>Añadiendo ficheros con filtro .*Pentatonix.*\.mp4</message>
+</record>
+<record>
+  <date>2018-10-21T21:53:09</date>
+  <millis>1540151589021</millis>
+  <sequence>2</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>14</thread>
+  <message>Añadiendo ficheros con filtro *</message>
+</record>
+<record>
+  <date>2018-10-21T21:53:09</date>
+  <millis>1540151589026</millis>
+  <sequence>3</sequence>
+  <logger>pr01.ListaDeReproduccion</logger>
+  <level>INFO</level>
+  <class>pr01.ListaDeReproduccion</class>
+  <method>add</method>
+  <thread>14</thread>
+  <message>Añadiendo ficheros con filtro .*</message>
+</record>
+</log>
